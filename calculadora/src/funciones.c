@@ -197,7 +197,7 @@ int calcularFactorial(float numeroACalcular, double* resultado)
 }
 /**
  * @fn int calcularOperaciones(float*, float*, float*, float*, float*, int*, float*, int*, int*, int*, int*)
- * @brief llama a todas las funciones para calcular las operaciones
+ * @brief llama a todas las funciones para calcular las operaciones.
  *
  * @param x primer operando
  * @param y segundo operando
