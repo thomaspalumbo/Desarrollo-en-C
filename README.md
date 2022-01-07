@@ -1,2 +1,2 @@
-# Desarrollo-en-C
+# desarrollo-en-C
 Practica con C
